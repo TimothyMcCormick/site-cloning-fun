@@ -1,0 +1,31 @@
+.card-title{
+  font-size: 36pt;
+}
+
+.card-white {
+  background: white;
+  padding: 1px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  margin: 10px 10px
+}
+
+video{
+  max-width: 100%;
+  margin: 0%;
+  padding: 0%;
+}
+
+.bg-grey{
+  background-color: rgb(46, 46, 46);
+}
+
+.bg-dk-grey{
+  background-color: rgb(22, 22, 22);
+}
+
+.twitter-button{
+  max-width:  80px;
+  max-height: 80px;
+  justify-content: center;
+}
